@@ -1,4 +1,4 @@
-### Seja bem vindo! Eu sou Ronoel Lima
+### Welcome! I am Ronoel Lima
 
 
 - 🔭 I’m currently working on Two Projects at 
