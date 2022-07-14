@@ -90,8 +90,8 @@ Object Oriented Programming, Functional Programming)
     3. Desenvolvimento Frontend;
     4. WordPress;
     5. Webdesign;
+    6. PHP.
    
-
 - Git e Github : Udemy 
 
 
