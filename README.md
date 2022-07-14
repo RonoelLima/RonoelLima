@@ -10,7 +10,7 @@
 - 📫 How to reach me: ronoelnascimento@gmail.com
 - ⚡ Fun fact: ...
 
-- Technical Courses 
+- Technical Courses
 
 - Responsive Web Design - FreeCodeCamp: link: https://www.freecodecamp.org/certification/fcc236d769c-baa7-43b2-9ae7-d7366dca1d1c/responsive-web-design
   (HTML5, CSS3, Accessibility, Responsiveness, CSS Flexbox, CSS Grid, Five Projects)
@@ -94,10 +94,7 @@ Object Oriented Programming, Functional Programming)
    
 - Git e Github : Udemy 
 
-
-
-
-
+- Inglês Técnico - Departamento de Letras Germânicas do Instituto  de Letras, da Universidade Federal da Bahia. com carga horária de 408 horas.
 
 <!--
 **RonoelLima/RonoelLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
